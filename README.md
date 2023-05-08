@@ -1,4 +1,4 @@
-# Life Insurance Management System
+# Health Insurance Management System
 A dashboard website for a Life Insurance Company.
 Built using **PHP**, **MySQL**, **HTML**, **CSS**
 
@@ -21,9 +21,3 @@ Assuming **XAMPP** is already installed in your local machine
 3. import the **lims.sql** file provided in **database backup** folder
 4. Go to http://localhost if you see a login page, it is working
 
-## DEMO
-This project is hosted at https://lims.nafisulbari.com for you to play with.
-
-Username: 555 
-
-Password: 666
